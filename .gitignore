@@ -3,5 +3,5 @@
 .matech3d_btsw4
 db.sqlite3
 *pyc
-*__pychace__
+*__pycache__
 staticfiles
