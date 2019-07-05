@@ -38,7 +38,7 @@ After installation, run `npm install` and then run `npm start` which will open u
 
 - `gulp` the default task that builds everything
 - `gulp watch` browserSync opens the project in your default browser and live reloads when changes are made
-- `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
+- `gulp css` compiles SCSS files into CSS and minifiles the compiled CSS
 - `gulp js` minifies the themes JS file
 - `gulp vendor` copies dependencies from node_modules to the vendor directory
 
